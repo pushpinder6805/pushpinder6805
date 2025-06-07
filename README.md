@@ -1,12 +1,12 @@
-# Hi there, I'm Pushpender Singh 👋
+# Hi there, I'm Pushpinder Singh 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GujjarChaudhary&show_icons=true&theme=radical)](https://github.com/GujjarChaudhary)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpinder6805&show_icons=true&theme=radical&count_private=true)](https://github.com/pushpinder6805)
 
 ---
 
 ### 📊 My GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GujjarChaudhary&theme=react-dark&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pushpinder6805&theme=react-dark&area=true)
 
 ---
 
@@ -27,8 +27,7 @@
 
 ### 📫 How to reach me
 
-- [GitHub](https://github.com/GujjarChaudhary)
-- You can add your email or other social links here
+- [GitHub](https://github.com/pushpinder6805)
 
 ---
 
