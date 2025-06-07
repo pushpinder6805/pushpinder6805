@@ -2,11 +2,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpinder6805&show_icons=true&theme=radical&count_private=true)](https://github.com/pushpinder6805)
 
----
-
-### 📊 My GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pushpinder6805&theme=react-dark&area=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushpinder6805&theme=radical)](https://github.com/pushpinder6805)
 
 ---
 
