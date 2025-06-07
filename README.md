@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Pushpinder Singh</h1>
+<h1 align="center">👋 Hey, I'm Pushpender Singh</h1>
 <p align="center">
   <a href="https://github.com/pushpinder6805">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pushpinder6805&show_icons=true&theme=radical&count_private=true&hide_border=true" />
